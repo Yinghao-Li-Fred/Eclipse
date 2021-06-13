@@ -5,6 +5,7 @@
 	<groupId>com.fdmgroup</groupId>
 	<artifactId>MavenDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<!--git test--->
 	<build>
 		<plugins>
 			<plugin>
